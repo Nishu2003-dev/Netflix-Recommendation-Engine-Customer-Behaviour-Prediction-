@@ -25,6 +25,7 @@ Columns:
 - Python
 - Pandas
 - Scikit-learn
+- Numpy
 ## Steps Performed
  Data preprocessing and normalization
  User-Item matrix creation
