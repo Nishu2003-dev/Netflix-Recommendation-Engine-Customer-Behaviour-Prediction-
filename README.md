@@ -36,6 +36,9 @@ Personalized movie recommendations for each user.
 Improved content relevance by ~30%
 Generated top-10 recommendations per user
 
+## Business Impact
+Increases user engagement and watch time through personalized content suggestions
+
 ## Author
 Nishant Gupta
 
