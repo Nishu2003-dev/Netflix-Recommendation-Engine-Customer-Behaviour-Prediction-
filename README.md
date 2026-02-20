@@ -105,7 +105,7 @@ enjoy movies they haven't seen yet — and recommend the best one in every genre
 ## 🚀 How to Run
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/netflix-recommendation-system
+git clone https://github.com/Nishu2003-dev/netflix-recommendation-system
 
 # 2. Install dependencies
 pip install pandas numpy matplotlib seaborn scikit-surprise
@@ -150,8 +150,8 @@ netflix-recommendation-system/
 
 ## 👤 Author
 
-**[Your Name]**  
+**Nishant Gupta**  
 B.Tech — Computer Science with AI Specialization  
-📧 [your email] · 💼 [LinkedIn] · 🐙 [GitHub]
+📧 nishantgupta0945@gmail.com · 💼 [linkedin.com/in/nishant-gupta-98745b319] · 🐙 [github.com/Nishu2003-dev]
 
 *Open to Data Science, ML Engineering, and Data Analyst roles*
