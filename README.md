@@ -152,6 +152,6 @@ netflix-recommendation-system/
 
 **Nishant Gupta**  
 B.Tech — Computer Science with AI Specialization  
-📧 nishantgupta0945@gmail.com · 💼 [linkedin.com/in/nishant-gupta-98745b319] · 🐙 [github.com/Nishu2003-dev]
+📧 nishantgupta0945@gmail.com · 💼 linkedin.com/in/nishant-gupta-98745b319 · 🐙 github.com/Nishu2003-dev
 
 *Open to Data Science, ML Engineering, and Data Analyst roles*
